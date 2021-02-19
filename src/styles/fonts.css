@@ -50,6 +50,10 @@ body {
   line-height: 1.6em;
 }
 
+.h2-smallest {
+  font-size: 52px;
+}
+
 .subtitle {
   font-size: 24px;
 }
@@ -61,6 +65,6 @@ body {
   line-height: 1.6em;
 }
 
-.yellow-text {
+.text-yellow {
   color: var(--main-yellow);
 }
