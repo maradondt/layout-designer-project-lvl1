@@ -40,3 +40,32 @@
   width: 350px;
   height: 348px;
 }
+
+.card-link {
+  color: var(--dark);
+  text-decoration: none;
+}
+
+.card-link * {
+  transition: all ease-in-out 0.3s;
+}
+
+.card-link:hover * {
+  color: var(--main-white);
+}
+
+.card-link:hover > div {
+  background-color: var(--main-yellow);
+}
+
+.card-count {
+  margin-bottom: 40px;
+
+  font-size: 64px;
+  font-family: 'Neucha', sans-serif;
+  line-height: 1;
+}
+
+.card-title {
+  margin-bottom: 16px;
+}
