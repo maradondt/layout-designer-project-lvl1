@@ -1,0 +1,55 @@
+/* @import './colors.css'; */
+
+@font-face {
+  font-weight: 400;
+  font-family: 'Open sans';
+  font-style: normal;
+  src: local('Open sans'), url('../fonts/Open_Sans/OpenSans-Regular.ttf');
+}
+
+@font-face {
+  font-weight: 400;
+  font-family: 'Neucha';
+  font-style: normal;
+  src: local('Open sans'), url('../fonts/Neucha/Neucha-Regular.ttf');
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Neucha', 'Comic Sans', sans-serif;
+  line-height: 1.2em;
+}
+
+h1 {
+  font-size: 72px;
+}
+
+h2 {
+  font-size: 60px;
+}
+
+h3 {
+  font-size: 34px;
+}
+
+/* body {
+  color: var(--dark);
+  font-size: 16px;
+  font-family: 'Open sans', 'Arial', sans-serif;
+  line-height: 1.6em;
+} */
+
+.subtitle {
+  font-size: 24px;
+}
+
+.text {
+  color: var(--dark);
+  font-size: 16px;
+  font-family: 'Open sans', 'Arial', sans-serif;
+  line-height: 1.6em;
+}
