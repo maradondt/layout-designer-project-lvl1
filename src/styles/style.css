@@ -76,3 +76,58 @@
 
   filter: drop-shadow(0 16px 32px rgba(0, 0, 0, 0.15));
 }
+
+.subscribe {
+  justify-content: space-around;
+  padding: 40px 55px;
+
+  color: var(--main-white);
+
+  background-color: var(--main-darked);
+}
+
+.subscribe-title {
+  margin: auto 0;
+}
+
+.form-subscribe {
+  display: flex;
+}
+
+.input {
+  width: 100%;
+  height: 50px;
+  padding: 15px;
+
+  border: 1px solid #e3e3e3;
+}
+
+.mail-descriprion {
+  margin-bottom: 9px;
+
+  font-size: 18px;
+}
+
+.oferta {
+  font-size: 12px;
+}
+
+.oferta-link {
+  color: var(--main-white);
+}
+
+.copyright a {
+  color: #1085c5;
+}
+
+.copyright {
+  text-align: center;
+}
+
+.copyright p {
+  margin-top: 16px;
+}
+
+.copyright:first-child {
+  margin-top: 76px;
+}
