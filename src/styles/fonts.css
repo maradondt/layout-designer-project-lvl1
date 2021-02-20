@@ -18,7 +18,7 @@
   font-weight: 400;
   font-family: 'Neucha';
   font-style: normal;
-  src: local('Neucha'), url('../fonts/Neucha/Neucha-Regular.ttf');
+  src: local('Neucha'), url('../fonts/Neucha/Neucha-Regular.woff');
 }
 
 h1,
