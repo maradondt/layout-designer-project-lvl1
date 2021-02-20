@@ -1,5 +1,5 @@
 /** CSS STYLE **/
-@import '../../node_modules/modern-css-reset/dist/reset.css';
+@import './reset.css';
 @import './colors.css';
 @import './fonts.css';
 @import './layout.css';

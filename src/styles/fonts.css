@@ -8,7 +8,7 @@
 }
 
 @font-face {
-  font-weight: 600;
+  font-weight: 700;
   font-family: 'Open sans';
   font-style: bold;
   src: local('Open sans'), url('../fonts/Open_Sans/OpenSans-Bold.ttf');
@@ -18,7 +18,7 @@
   font-weight: 400;
   font-family: 'Neucha';
   font-style: normal;
-  src: local('Open sans'), url('../fonts/Neucha/Neucha-Regular.ttf');
+  src: local('Neucha'), url('../fonts/Neucha/Neucha-Regular.ttf');
 }
 
 h1,
