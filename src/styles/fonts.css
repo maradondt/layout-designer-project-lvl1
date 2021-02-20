@@ -81,6 +81,10 @@ body {
   color: var(--main-white);
 }
 
+.text-brown {
+  color: var(--brown);
+}
+
 .section-desctiprion {
   font-family: 'Neucha', 'Comic Sans', sans-serif;
   line-height: 1.2em;

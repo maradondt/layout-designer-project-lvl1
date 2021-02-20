@@ -44,6 +44,10 @@
   background-color: var(--brown);
 }
 
+.bg-white {
+  background-color: var(--main-white);
+}
+
 .bg-dark {
   color: var(--main-white);
 
