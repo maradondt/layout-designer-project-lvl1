@@ -10,7 +10,7 @@
 @font-face {
   font-weight: 600;
   font-family: 'Open sans';
-  font-style: normal;
+  font-style: bold;
   src: local('Open sans'), url('../fonts/Open_Sans/OpenSans-Bold.ttf');
 }
 
@@ -31,15 +31,18 @@ h6 {
   line-height: 1.2em;
 }
 
-h1 {
+h1,
+.h1 {
   font-size: 72px;
 }
 
-h2 {
+h2,
+.h2 {
   font-size: 60px;
 }
 
-h3 {
+h3,
+.h3 {
   font-size: 34px;
 }
 
@@ -56,6 +59,7 @@ body {
 
 .subtitle {
   font-size: 24px;
+  font-family: 'Neucha', 'Comic Sans', sans-serif;
 }
 
 .text {
@@ -67,4 +71,21 @@ body {
 
 .text-yellow {
   color: var(--main-yellow);
+}
+
+.text-gray {
+  color: var(--transparent-dark);
+}
+
+.text-white {
+  color: var(--main-white);
+}
+
+.section-desctiprion {
+  font-family: 'Neucha', 'Comic Sans', sans-serif;
+  line-height: 1.2em;
+}
+
+.ttu {
+  text-transform: uppercase;
 }
