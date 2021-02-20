@@ -1,6 +1,6 @@
-html {
+/* html {
   scroll-behavior: smooth;
-}
+} */
 
 .container {
   width: 100%;
@@ -55,7 +55,7 @@ html {
 .bg-dark {
   color: var(--main-white);
 
-  background-color: var(--dark);
+  background-color: var(--main-darked);
 }
 
 .bg-img-guess::before {
