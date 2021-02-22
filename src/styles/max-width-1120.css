@@ -1,0 +1,23 @@
+@media (max-width: 1120px) {
+  .content {
+    max-width: 840px;
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+
+  .section-img {
+    display: none;
+  }
+
+  .col {
+    flex: 1 0 100%;
+  }
+
+  .card-link {
+    max-width: 48%;
+  }
+
+  .navigation-first-row .card-link:nth-child(n) {
+    height: 348px;
+  }
+}

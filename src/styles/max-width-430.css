@@ -1,0 +1,107 @@
+@media (max-width: 430px) {
+  .content {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .mt-100 {
+    margin-top: 0;
+  }
+
+  .sm-mt-50 {
+    margin-top: 50px;
+  }
+
+  .sm-pt-100 {
+    padding-top: 100px;
+  }
+
+  .sm-mt-30 {
+    margin-top: 30px;
+  }
+
+  .sm-margin-auto {
+    margin: 0 auto;
+  }
+
+  h1 {
+    font-size: 40px;
+    text-align: center;
+  }
+
+  h2,
+  .h2 {
+    font-size: 30px;
+  }
+
+  .h2-smallest {
+    font-size: 28px;
+  }
+
+  h3 {
+    font-size: 24px;
+  }
+
+  .header-img {
+    display: none;
+  }
+
+  .button {
+    display: block;
+
+    text-align: center;
+  }
+
+  .card {
+    height: 100%;
+  }
+
+  .card-link {
+    max-width: 100%;
+  }
+
+  .navigation-first-row .card-link:nth-child(n) {
+    height: 100%;
+  }
+
+  .subscribe {
+    padding: 30px;
+  }
+
+  .mail-descriprion {
+    display: none;
+  }
+
+  .subscribe-title {
+    margin-bottom: 10px;
+
+    font-size: 24px;
+    text-align: center;
+  }
+
+  .subscribe-title br {
+    display: none;
+  }
+
+  .form-subscribe {
+    flex-wrap: wrap;
+  }
+
+  .subscribe-button {
+    width: 100%;
+  }
+
+  .copyright:first-child {
+    margin-top: 30px;
+  }
+
+  .copyright > p {
+    font-size: 12px;
+  }
+
+  .card:first-child {
+    height: 100px;
+
+    text-align: center;
+  }
+}

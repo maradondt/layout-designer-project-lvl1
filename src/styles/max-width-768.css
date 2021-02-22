@@ -1,0 +1,42 @@
+@media (max-width: 768px) {
+  .content {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+
+  h1,
+  .h1 {
+    font-size: 50px;
+  }
+
+  h2,
+  .h2 {
+    font-size: 40px;
+  }
+
+  .h2-smallest {
+    font-size: 40px;
+  }
+
+  h3,
+  .h3 {
+    font-size: 30px;
+  }
+
+  .card-link,
+  .card {
+    flex: 1 0 48%;
+    min-width: 300px;
+    max-width: 100%;
+  }
+
+  .card:first-child {
+    height: 200px;
+
+    text-align: center;
+  }
+
+  .navigation-first-row {
+    align-items: center;
+  }
+}
